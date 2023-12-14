@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # Increasing Your GPT's Visibility
 ## How to Enhance the Visibility of Your GPT?
 Option 1 (Recommended): Submit a Pull Request containing your GPT's information, following the specified format, to the /gpts/general.txt file.
