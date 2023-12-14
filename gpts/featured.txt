@@ -1,0 +1,8 @@
+1. [AI Song Maker](https://chat.openai.com/g/g-txEiClD5G-ai-song-maker) - for song analysis and creative lyric or album cover generation and creating songs from images.
+2. [AI Newspaper](https://chat.openai.com/g/g-rctvxh6M8-ai-newspaper) - for summarizing daily news.
+3. [AI Art Analyzer](https://chat.openai.com/g/g-EfX3sc2q7-ai-art-analyzer) - for providing in-depth analysis of artworks, provides incremental ideas for your artwork.
+4. [AI Personality Test](https://chat.openai.com/g/g-8ltMj545m-ai-personality-test) - for determining personality types and content you might enjoy using AI.
+5. [AI Match Maker](https://chat.openai.com/g/g-ZZF6aPQuL-ai-match-maker) - for crafting messages on dating apps by analyzing bios, profile images or conversations.
+6. [AI Coupon Finder](https://chat.openai.com/g/g-U0Y9U3PRH-ai-coupon-finder) - for locating coupons on social media.
+7.  [Standard ChatGpt](https://chat.openai.com/?model=text-davinci-002-render-sha) broad-based GPT for everyday tasks
+8. [AI problem solver](https://chat.openai.com/g/g-cTTB9ToW2-ai-problem-solver) broad-based GPT for problem solving tasks
